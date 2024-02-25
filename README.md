@@ -1,4 +1,4 @@
-# Classification using PyTorch
+# ResNet architecture from scratch
 
 This project implements and trains a variation of the widely used architecture, ResNet, for classifying images from solar panels. The goal is to identify defects in solar panels, which are subject to degradation due to various factors such as transport, wind, hail, etc. The defects can be of different types, such as cracks or inactive regions.
 
